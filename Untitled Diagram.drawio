@@ -37,6 +37,9 @@
         <mxCell id="kDZRJCSb3KMc_5UIK3in-73" value="1.god&amp;nbsp;&lt;div&gt;diplomski&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-56">
           <mxGeometry x="25" y="200" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kDZRJCSb3KMc_5UIK3in-88" value="?1.god&lt;div&gt;diplomski&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-56">
+          <mxGeometry x="25" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="kDZRJCSb3KMc_5UIK3in-57" value="ferit" style="swimlane;html=1;startSize=20;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-55">
           <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
         </mxCell>
@@ -64,8 +67,14 @@
             <mxPoint x="600" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kDZRJCSb3KMc_5UIK3in-89" value="?1.god&lt;div&gt;diplomski&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-57">
+          <mxGeometry x="25" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="kDZRJCSb3KMc_5UIK3in-58" value="soc rad" style="swimlane;html=1;startSize=20;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-55">
           <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZRJCSb3KMc_5UIK3in-87" value="?1.god&lt;div&gt;preddiplomski&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-58">
+          <mxGeometry x="24" y="290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kDZRJCSb3KMc_5UIK3in-62" value="farmacija&amp;nbsp;" style="swimlane;html=1;startSize=20;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-55">
           <mxGeometry x="360" y="20" width="120" height="460" as="geometry" />
@@ -78,6 +87,12 @@
         </mxCell>
         <mxCell id="kDZRJCSb3KMc_5UIK3in-81" value="HJ&amp;nbsp;&lt;div&gt;matura&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-76">
           <mxGeometry x="25" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZRJCSb3KMc_5UIK3in-90" value="?kemija&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-76">
+          <mxGeometry x="25" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZRJCSb3KMc_5UIK3in-91" value="?biologija" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="kDZRJCSb3KMc_5UIK3in-76">
+          <mxGeometry x="25" y="331" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kDZRJCSb3KMc_5UIK3in-64" value="2021" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-1510" width="60" height="30" as="geometry" />
