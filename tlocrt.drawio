@@ -19,12 +19,19 @@
         <mxCell id="INXW69PpFRCRp20cEb_S-3" edge="1" parent="1" source="INXW69PpFRCRp20cEb_S-1" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.087;exitY=1.2;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="1210" />
-              <mxPoint x="750" y="1020" />
+              <mxPoint x="550" y="1170" />
+              <mxPoint x="470" y="900" />
+              <mxPoint x="730" y="820" />
             </Array>
             <mxPoint x="200" y="1180" as="sourcePoint" />
-            <mxPoint x="750" y="758" as="targetPoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LqArvldz6VCcgJbnztjc-1" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="85" width="160" x="220" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="LqArvldz6VCcgJbnztjc-2" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" value="" vertex="1">
+          <mxGeometry height="750" width="10" x="690" y="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
