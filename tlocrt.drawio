@@ -13,6 +13,19 @@
         <mxCell id="sRUl6JTG2Ui8R3wCsdjQ-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="10" width="700" y="1415" as="geometry" />
         </mxCell>
+        <mxCell id="INXW69PpFRCRp20cEb_S-1" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="10" width="700" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="INXW69PpFRCRp20cEb_S-3" edge="1" parent="1" source="INXW69PpFRCRp20cEb_S-1" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.087;exitY=1.2;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1210" />
+              <mxPoint x="750" y="1020" />
+            </Array>
+            <mxPoint x="200" y="1180" as="sourcePoint" />
+            <mxPoint x="750" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
